@@ -39,14 +39,14 @@ Resume → Skill Extraction → Matching → Scoring → Explanation
 ```
 resume_screening/
 ├── prompts/
-│   ├── __init__.py
 │   └── prompt_templates.py      # All LangChain PromptTemplates
+|
 ├── chains/
-│   ├── __init__.py
 │   └── screening_chain.py       # LCEL pipeline using Groq LLM
+|
 ├── data/
-│   ├── __init__.py
 │   └── resumes.py               # 3 sample resumes + job description
+|
 ├── screenshots/                 # LangSmith tracing screenshots
 ├── main.py                      # Entry point — runs all 3 candidates
 ├── .env                         
