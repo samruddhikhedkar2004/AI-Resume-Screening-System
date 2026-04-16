@@ -91,5 +91,7 @@ Overall, it was a practical introduction to how real-world GenAI systems are des
 ## 👩‍💻 Author
 
 Samruddhi Khedkar
+
 Final Year B.Tech — Electronics & Telecommunication Engineering
+
 Agentic AI Intern — Innomatics Research Labs
