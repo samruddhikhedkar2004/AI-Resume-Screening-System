@@ -58,9 +58,9 @@ resume_screening/
 
 ## 📊 Sample Output
 
-Skills: Python, SQL, Pandas
-Tools: NumPy, Matplotlib
-Experience: 1 year
+**Skills:** Python, SQL, Pandas
+**Tools:** NumPy, Matplotlib
+**Experience:** 1 year
 
 Matched: Python, Pandas
 Missing: Deep Learning
@@ -68,6 +68,7 @@ Missing: Deep Learning
 Score: 65
 
 Explanation: Candidate has strong fundamentals but lacks advanced ML experience.
+
 ---
 
 ## 🔍 LangSmith Tracing
@@ -91,7 +92,5 @@ Overall, it was a practical introduction to how real-world GenAI systems are des
 ## 👩‍💻 Author
 
 Samruddhi Khedkar
-
 Final Year B.Tech — Electronics & Telecommunication Engineering
-
 Agentic AI Intern — Innomatics Research Labs
