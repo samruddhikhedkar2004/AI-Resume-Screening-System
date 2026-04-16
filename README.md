@@ -36,6 +36,7 @@ Resume → Skill Extraction → Matching → Scoring → Explanation
 
 ## 📂 Project Structure
 
+```
 resume_screening/
 ├── prompts/
 │   ├── __init__.py
@@ -51,6 +52,8 @@ resume_screening/
 ├── .env                         
 ├── requirements.txt
 └── README.md
+```
+
 ---
 
 ## 📊 Sample Output
